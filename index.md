@@ -1,22 +1,20 @@
 # 资源链接
 
-阿里云开发者工具：https://developer.aliyun.com/tool?spm=a2c6h.12883283.1362934.6.5f1f201crazf6a
+[阿里云开发者工具](https://developer.aliyun.com/tool?spm=a2c6h.12883283.1362934.6.5f1f201crazf6a)
 
-Dism++:https://www.chuyu.me/zh-Hans/index.html
+[Dism++](https://www.chuyu.me/zh-Hans/index.html)
 
-网课视频及短视频下载工具：https://www.52pojie.cn/thread-1270642-1-1.html
+[windows远程桌面管理工具](https://www.52pojie.cn/thread-1221160-1-2.html)
 
-windows远程桌面管理工具1：https://www.52pojie.cn/thread-1221160-1-2.html
+[雷电安卓模拟器](https://www.52pojie.cn/thread-1302859-1-1.html)
 
-windows远程桌面管理工具2 C#：https://www.52pojie.cn/thread-1294498-1-1.html
+[T+产品下载](https://service.chanjet.com/product/goods/download-list?id=53aaa40295d458e44f5d3ce5)
 
-雷电安卓模拟器：https://www.52pojie.cn/thread-1302859-1-1.html
-
-T+产品下载：https://service.chanjet.com/product/goods/download-list?id=53aaa40295d458e44f5d3ce5
-
-搜狗拼音输入法 10.3.0.4581 去广告精简优化版：https://wwa.lanzous.com/iOIThp1iq0f密码:fqzq
+[搜狗拼音输入法 10.3.0.4581 去广告精简优化版](https://wwa.lanzous.com/iOIThp1iq0f)密码:fqzq
 
 [sql server 2014+2012+2008+2008r2+2005+2000](https://bbs.pcbeta.com/viewthread-1563189-1-1.html)
+
+[免费SSL证书(https网站)申请](https://www.cnblogs.com/osfipin/p/freessl.html)
 
 # 全球各国语言零基础学习全套
 
