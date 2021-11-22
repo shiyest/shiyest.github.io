@@ -1,7 +1,5 @@
 # 资源链接
 
-[阿里云开发者工具](https://developer.aliyun.com/tool?spm=a2c6h.12883283.1362934.6.5f1f201crazf6a)
-
 [Dism++](https://www.chuyu.me/zh-Hans/index.html)
 
 [windows远程桌面管理工具](https://www.52pojie.cn/thread-1221160-1-2.html)
@@ -10,24 +8,20 @@
 
 [T+产品下载](https://service.chanjet.com/product/goods/download-list?id=53aaa40295d458e44f5d3ce5)
 
-[搜狗拼音输入法 10.3.0.4581 去广告精简优化版](https://wwa.lanzous.com/iOIThp1iq0f)密码:fqzq
-
-[sql server 2014+2012+2008+2008r2+2005+2000](https://bbs.pcbeta.com/viewthread-1563189-1-1.html)
-
 [免费SSL证书(https网站)申请](https://www.cnblogs.com/osfipin/p/freessl.html)
 
 # 全球各国语言零基础学习全套
 
 【英语】
 
-1.北京外国语大学老师新概念英语第一册到第四册精品课程百度云盘链接，总大小4.7G。
+1.北京外国语大学老师新概念英语第一册到第四册精品课程
     链接 http://pan.baidu.com/s/1hsrBO6g
-2.新概念英语名师精讲笔记(非常好用，记得看)
-   链接： http://pan.baidu.com/s/1qXEfRmW
+2.新概念英语名师精讲笔记
+   链接：http://pan.baidu.com/s/1qXEfRmW
 3:新概念英语练习详解
-   链接： http://pan.baidu.com/s/1ge6WGBD
+   链接：http://pan.baidu.com/s/1ge6WGBD
 4:新概念英语全四册词汇详解
-   链接：  https://pan.baidu.com/share/init?surl=dDjOzcP   密码：u7yv
+   链接：https://pan.baidu.com/share/init?surl=dDjOzcP 密码：u7yv
 
 【日语】
 
@@ -235,33 +229,6 @@
 链接: https://pan.baidu.com/s/1efPyJs 密码: h8sg
 西班牙语高级文法汇总
 链接: https://pan.baidu.com/s/1smY9ra9 密码: rjyr
-
-# 2021年二级建造师课件资料
-
-2021年二建【法规】VIP课件（文件夹内容更新中）
-https://pan.baidu.com/s/1DTArazW9wMHzK5YIzwN7yA 提取码: jhzi
-
-2021年二建【公路】VIP课件（文件夹内容更新中）
-https://pan.baidu.com/s/1XstU4Mf31xRPFDKCQTxqiQ 提取码: cpkr
-
-2021年二建【管理】VIP课件（文件夹内容更新中）
-https://pan.baidu.com/s/1h7PJv7aHRpU565fJtI4zQg 提取码: ke6e
-
-2021年二建【机电】VIP课件（文件夹内容更新中）
-https://pan.baidu.com/s/1qx-jTbLDsGJtYODbs6aNUg 提取码: paub
-
-2021年二建【建筑】VIP课件（文件夹内容更新中）
-https://pan.baidu.com/s/1JrXfgO5mEW65kkqjNYJuvw 提取码: ue66
-
-2021年二建【市政】VIP课件（文件夹内容更新中）
-https://pan.baidu.com/s/1Ba7ThU8bBdA9s54P2_nlPQ 提取码: 4fc9
-
-2021年二建【水利】VIP课件（文件夹内容更新中）
-https://pan.baidu.com/s/1GJ5y5vOMy5Mr14zmqjrxjg 提取码: wghv
-
-# 2021年初级会计师
-
-https://pan.baidu.com/s/1fwsKYnjKTMX32w6bWDXlHQ#list/path=%2F 提取码：cah7
 
 # 用友U8视频教程
 
