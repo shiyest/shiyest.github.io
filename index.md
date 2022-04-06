@@ -10,6 +10,8 @@
 
 [免费SSL证书(https网站)申请](https://www.cnblogs.com/osfipin/p/freessl.html)
 
+[硬件检测工具 (lanzoux.com)](https://pan.lanzoux.com/b0f1dp0mh)
+
 # 全球各国语言零基础学习全套
 
 【英语】
