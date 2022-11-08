@@ -12,6 +12,8 @@
 
 [驱动大师+驱动人生+驱动精灵](https://clamowo.lanzouy.com/b05ajvsla)
 
+[raidrive旧版下载](https://raidrive.cn.uptodown.com/windows/versions)
+
 # 英语零基础学习
 
 1.北京外国语大学老师新概念英语第一册到第四册精品课程
