@@ -46,7 +46,7 @@ V12.0及以上版本的注册机均需要购买。[海欣科技吧](https://tieb
 
 “我爱水煮鱼”教程链接：https://blog.wpjam.com/series/wordpress-theme-tutorials
 
-[免费SSL证书(https网站)申请](https://www.cnblogs.com/osfipin/p/freessl.html)
+免费SSL证书申请：https://www.cnblogs.com/osfipin/p/freessl.html
 
 # Windows精简优化
 
@@ -92,10 +92,4 @@ Manual Setup
 第11课地址: https://pan.baidu.com/s/1soj82ho8CbJWlYV3xf7qhA 提取码: vbd8 
 
 第12课地址: https://pan.baidu.com/s/1i4vJwxMoiYcKXmLSO3ofhA 提取码: 7ctp 
-
-# 可道云文档管理系统
-
-KODExplorer下载链接：https://gitee.com/kalcaddle/KODExplorer
-
-KODbox下载链接：https://github.com/kalcaddle/kodbox
 
