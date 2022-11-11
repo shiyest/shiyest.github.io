@@ -12,7 +12,11 @@
 
 [驱动大师+驱动人生+驱动精灵](https://clamowo.lanzouy.com/b05ajvsla)
 
-[raidrive旧版下载](https://raidrive.cn.uptodown.com/windows/versions)
+[Kola京东淘宝任务助手 ](https://disk.lanzoum.com/b0c2sg3tg)
+
+[clouddrive阿里云盘+天翼云盘本地挂在](https://www.aliyundrive.com/s/7UjokGfUEp7/folder/61e19cc2bf9519b3fc414d86857ce478dfafbc74)
+
+[LanHelper V1.99局域网助手](https://www.jb51.net/softs/19766.html)
 
 # 英语零基础学习
 
