@@ -18,6 +18,8 @@
 
 [LanHelper V1.99局域网助手](https://www.jb51.net/softs/19766.html)
 
+[静读天下Pro ](https://wwi.lanzout.com/b046g1god#d5tk)
+
 # 英语零基础学习
 
 1.北京外国语大学老师新概念英语第一册到第四册精品课程
