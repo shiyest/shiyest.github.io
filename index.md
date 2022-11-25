@@ -10,6 +10,7 @@
 |                                                        | [MySQL 社区服务器下载](https://dev.mysql.com/downloads/mysql/) |                                                              |
 |                                                        | [FileZilla Server](https://filezilla-project.org/download.php?show_all=1&type=server) |                                                              |
 |                                                        | [PHP下载](https://www.php.net/downloads)                     |                                                              |
+|                                                        | [nginx下载](http://nginx.org/en/download.html)               |                                                              |
 
 # 英语零基础学习
 
