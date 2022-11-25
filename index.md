@@ -1,24 +1,15 @@
 # 常用软件
 
-[Dism++](https://www.chuyu.me/zh-Hans/index.html)
-
-[windows远程桌面管理工具](https://www.52pojie.cn/thread-1221160-1-2.html)
-
-[雷电安卓模拟器](https://www.52pojie.cn/thread-1302859-1-1.html)
-
-[T+产品下载](https://service.chanjet.com/product/goods/download-list?id=53aaa40295d458e44f5d3ce5)
-
-[硬件检测工具 (lanzoux.com)](https://pan.lanzoux.com/b0f1dp0mh)
-
-[驱动大师+驱动人生+驱动精灵](https://clamowo.lanzouy.com/b05ajvsla)
-
-[Kola京东淘宝任务助手 ](https://disk.lanzoum.com/b0c2sg3tg)
-
-[clouddrive阿里云盘+天翼云盘本地挂在](https://www.aliyundrive.com/s/7UjokGfUEp7/folder/61e19cc2bf9519b3fc414d86857ce478dfafbc74)
-
-[LanHelper V1.99局域网助手](https://www.jb51.net/softs/19766.html)
-
-[静读天下Pro ](https://wwi.lanzout.com/b046g1god#d5tk)
+| 办公软件                                               | 极客软件                                                     | 装机软件                                                     |
+| ------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------------------------------- |
+| [静读天下Pro ](https://wwi.lanzout.com/b046g1god#d5tk) | [Kola京东淘宝任务助手 ](https://disk.lanzoum.com/b0c2sg3tg)  | [Dism++](https://www.chuyu.me/zh-Hans/index.html)            |
+|                                                        | [windows远程桌面](https://pan.baidu.com/s/1oHyQW9uNqH9Ittjkv1yNLw)提取码:fndy | [硬件检测工具](https://pan.lanzoux.com/b0f1dp0mh)            |
+|                                                        | [LanHelper V1.99局域网助手](https://www.jb51.net/softs/19766.html) | [驱动大师+驱动人生+驱动精灵](https://clamowo.lanzouy.com/b05ajvsla) |
+|                                                        | [MySQL 社区服务器下载](https://dev.mysql.com/downloads/mysql/) |                                                              |
+|                                                        | [clouddrive阿里/天翼云盘本地挂载](https://www.aliyundrive.com/s/7UjokGfUEp7/folder/61e19cc2bf9519b3fc414d86857ce478dfafbc74) |                                                              |
+|                                                        | [T+产品下载](https://service.chanjet.com/product/goods/download-list?id=53aaa40295d458e44f5d3ce5) |                                                              |
+|                                                        |                                                              |                                                              |
+|                                                        |                                                              |                                                              |
 
 # 英语零基础学习
 
