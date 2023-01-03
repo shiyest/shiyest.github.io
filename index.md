@@ -12,6 +12,7 @@
 |                                                        | [PHP下载](https://www.php.net/downloads)                     |                                                              |
 |                                                        | [nginx下载](http://nginx.org/en/download.html)               |                                                              |
 |                                                        | [Win OpenSSL](http://slproweb.com/products/Win32OpenSSL.html) |                                                              |
+|                                                        | [E5_Renew_X](https://sundayrx.lanzoui.com/aW09Lsss75g)       |                                                              |
 
 # 英语零基础学习
 
