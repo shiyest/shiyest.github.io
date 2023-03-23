@@ -1,6 +1,6 @@
 # 常用软件
 
-| 办公软件                                               | 开发软件                                                     | 装机软件                                                     |
+| 手机软件                                               | 开发软件                                                     | 装机软件                                                     |
 | ------------------------------------------------------ | ------------------------------------------------------------ | :----------------------------------------------------------- |
 | [静读天下Pro ](https://wwi.lanzout.com/b046g1god#d5tk) | [Kola京东淘宝任务助手 ](https://disk.lanzoum.com/b0c2sg3tg)  | [Dism++](https://www.chuyu.me/zh-Hans/index.html)            |
 |                                                        | [windows远程桌面](https://pan.baidu.com/s/1oHyQW9uNqH9Ittjkv1yNLw)提取码:fndy | [硬件检测工具](https://pan.lanzoux.com/b0f1dp0mh)            |
