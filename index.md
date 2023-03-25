@@ -13,6 +13,7 @@
 |                                                        | [nginx下载](http://nginx.org/en/download.html)               |                                                              |
 |                                                        | [Win OpenSSL](http://slproweb.com/products/Win32OpenSSL.html) |                                                              |
 |                                                        | [E5_Renew_X](https://sundayrx.lanzoui.com/aW09Lsss75g)       |                                                              |
+|                                                        | [phpMyAdmin](https://www.phpmyadmin.net/files/)              |                                                              |
 
 # 英语零基础学习
 
